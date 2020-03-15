@@ -1,0 +1,1001 @@
+id,sms_phone,sms_phone_validated,success,message,action
+103343262,6478342944,none,false,invalid format,none
+103426540,84528784843,84528784843,false,"invalid format, must start with country code",none
+103278808,263716791426,none,false,invalid format,none
+103426733,27736529279,27736529279,true,valid number,none
+103426000,27718159078,27718159078,true,valid number,none
+103218982,19855201547,19855201547,false,"invalid format, must start with country code",none
+103427376,27717278645,27717278645,true,valid number,none
+103243034,81667273413,81667273413,false,"invalid format, must start with country code",none
+103327417,260955751013,none,false,invalid format,none
+103300640,730276061,27730276061,true,valid number,added country code 27
+103405588,263774817994,none,false,invalid format,none
+103426780,27724360860,27724360860,true,valid number,none
+103235404,639565885094,none,false,invalid format,none
+103352688,26771835182,26771835182,false,"invalid format, must start with country code",none
+103240721,263772471946,none,false,invalid format,none
+103277733,716125197,27716125197,true,valid number,added country code 27
+103269768,14013477302,14013477302,false,"invalid format, must start with country code",none
+103225830,260965100422,none,false,invalid format,none
+103305226,263774678913,none,false,invalid format,none
+103234712,84951373878,84951373878,false,"invalid format, must start with country code",none
+103301077,26771618891,26771618891,false,"invalid format, must start with country code",none
+103426922,27826088289,27826088289,true,valid number,none
+103425998,27827678672,27827678672,true,valid number,none
+103426839,27713564440,27713564440,true,valid number,none
+103426009,27795421631,27795421631,true,valid number,none
+103427857,27827979876,27827979876,true,valid number,none
+103426192,27714673782,27714673782,true,valid number,none
+103426826,27834400709,27834400709,true,valid number,none
+103319105,735595040,27735595040,true,valid number,added country code 27
+103427656,27782516491,27782516491,true,valid number,none
+103426776,27823871495,27823871495,true,valid number,none
+103391374,714573497,27714573497,true,valid number,added country code 27
+103321534,81792962221,81792962221,false,"invalid format, must start with country code",none
+103425788,27849914672,27849914672,true,valid number,none
+103427133,27848594077,27848594077,true,valid number,none
+103426147,27815580331,27815580331,true,valid number,none
+103426104,27734568785,27734568785,true,valid number,none
+103426396,27741300548,27741300548,true,valid number,none
+103426865,27745396612,27745396612,true,valid number,none
+103426698,27604823040,27604823040,true,valid number,none
+103315828,96899884597,96899884597,false,"invalid format, must start with country code",none
+103234688,264813576280,none,false,invalid format,none
+103418383,22999393611,22999393611,false,"invalid format, must start with country code",none
+103426190,27780048039,27780048039,true,valid number,none
+103255266,258845575333,none,false,invalid format,none
+103228097,263772720838,none,false,invalid format,none
+103427260,27743360731,27743360731,true,valid number,none
+103395136,381644138004,none,false,invalid format,none
+103332664,6085012947,none,false,invalid format,none
+103317353,847266801,27847266801,true,valid number,added country code 27
+103426432,27727169271,27727169271,true,valid number,none
+103427280,27810153070,27810153070,true,valid number,none
+103426848,27761633072,27761633072,true,valid number,none
+103427252,27768598508,27768598508,true,valid number,none
+103427818,27630594786,27630594786,true,valid number,none
+103219402,264814729972,none,false,invalid format,none
+103427193,27614466967,27614466967,true,valid number,none
+103425902,27813100776,27813100776,true,valid number,none
+103411347,26658002375,26658002375,false,"invalid format, must start with country code",none
+103336152,260976814362,none,false,invalid format,none
+103226725,258842911564,none,false,invalid format,none
+103425771,27845209554,27845209554,true,valid number,none
+103427337,27814186322,27814186322,true,valid number,none
+103317889,243817826444,none,false,invalid format,none
+103426373,27787165034,27787165034,true,valid number,none
+103282162,918411803312,none,false,invalid format,none
+103427698,27720275376,27720275376,true,valid number,none
+103426946,27728867527,27728867527,true,valid number,none
+103390514,84579457255,84579457255,false,"invalid format, must start with country code",none
+103356186,26650170224,26650170224,false,"invalid format, must start with country code",none
+103318393,258844519789,none,false,invalid format,none
+103427027,27761382340,27761382340,true,valid number,none
+103306254,82255589969,82255589969,false,"invalid format, must start with country code",none
+103427167,27723543123,27723543123,true,valid number,none
+103427839,27768896634,27768896634,true,valid number,none
+103426816,27844701108,27844701108,true,valid number,none
+103256178,923023888956,none,false,invalid format,none
+103379567,919022123380,none,false,invalid format,none
+103395361,971503720292,none,false,invalid format,none
+103302270,26653061142,26653061142,false,"invalid format, must start with country code",none
+103359001,26772966547,26772966547,false,"invalid format, must start with country code",none
+103426726,27717217884,27717217884,true,valid number,none
+103384318,607909220,27607909220,true,valid number,added country code 27
+103415339,26773832315,26773832315,false,"invalid format, must start with country code",none
+103288502,258823030108,none,false,invalid format,none
+103427070,27714322560,27714322560,true,valid number,none
+103252727,26650810163,26650810163,false,"invalid format, must start with country code",none
+103267492,26776046108,26776046108,false,"invalid format, must start with country code",none
+103356499,783987117,27783987117,true,valid number,added country code 27
+103325864,26878517345,26878517345,false,"invalid format, must start with country code",none
+103427769,27619469407,27619469407,true,valid number,none
+103427627,27817205340,27817205340,true,valid number,none
+103425994,27719394340,27719394340,true,valid number,none
+103425864,27832328393,27832328393,true,valid number,none
+103331967,84661417278,84661417278,false,"invalid format, must start with country code",none
+103426919,27846324168,27846324168,true,valid number,none
+103276003,26659923676,26659923676,false,"invalid format, must start with country code",none
+103276907,88647453164,88647453164,false,"invalid format, must start with country code",none
+103387485,4984595930440,none,false,invalid format,none
+103426055,27627433249,27627433249,true,valid number,none
+103425805,27843426265,27843426265,true,valid number,none
+103334322,263734101094,none,false,invalid format,none
+103279936,917094032503,none,false,invalid format,none
+103279492,258824791240,none,false,invalid format,none
+103352136,_DELETED_1488176172,none,false,invalid format,none
+103290182,_DELETED_1487769666,none,false,invalid format,none
+103286632,863584886440,none,false,invalid format,none
+103419411,919815889383,none,false,invalid format,none
+103360619,639052211816,none,false,invalid format,none
+103306661,81544126553,81544126553,false,"invalid format, must start with country code",none
+103426424,27813792714,27813792714,true,valid number,none
+103426843,27846402688,27846402688,true,valid number,none
+103426640,27837888600,27837888600,true,valid number,none
+103427020,34635982127,34635982127,false,"invalid format, must start with country code",none
+103331964,4582126706,none,false,invalid format,none
+103395574,26772571523,26772571523,false,"invalid format, must start with country code",none
+103426296,27785024867,27785024867,true,valid number,none
+103425053,26771316955,26771316955,false,"invalid format, must start with country code",none
+103254124,604130605,27604130605,true,valid number,added country code 27
+103426312,27733398529,27733398529,true,valid number,none
+103421400,761862602,27761862602,true,valid number,added country code 27
+103427237,27730506508,27730506508,true,valid number,none
+103332077,393247943650,none,false,invalid format,none
+103264166,639178014754,none,false,invalid format,none
+103314023,84462951985,84462951985,false,"invalid format, must start with country code",none
+103400462,9674579372,none,false,invalid format,none
+103408582,788746102,27788746102,true,valid number,added country code 27
+103425924,27820717780,27820717780,true,valid number,none
+103402338,260973833644,none,false,invalid format,none
+103427751,27762929295,27762929295,true,valid number,none
+103331034,260977444633,none,false,invalid format,none
+103337244,917973244160,none,false,invalid format,none
+103296291,244923539916,none,false,invalid format,none
+103427435,27814927009,27814927009,true,valid number,none
+103426316,27633895905,27633895905,true,valid number,none
+103426097,27719896357,27719896357,true,valid number,none
+103271514,919004421018,none,false,invalid format,none
+103399810,765734136,27765734136,true,valid number,added country code 27
+103243486,26876710399,26876710399,false,"invalid format, must start with country code",none
+103323270,3215165710,none,false,invalid format,none
+103426444,27722494958,27722494958,true,valid number,none
+103380004,_DELETED_1488454802,none,false,invalid format,none
+103357266,447879557668,none,false,invalid format,none
+103427879,27849222690,27849222690,true,valid number,none
+103427142,27617056464,27617056464,true,valid number,none
+103426352,27838706918,27838706918,true,valid number,none
+103427622,27635626551,27635626551,true,valid number,none
+103275818,243999034786,none,false,invalid format,none
+103308012,_DELETED_1487320831,none,false,invalid format,none
+103372685,26876647284,26876647284,false,"invalid format, must start with country code",none
+103427370,27716740767,27716740767,true,valid number,none
+103426507,27812761601,27812761601,true,valid number,none
+103395883,26876038637,26876038637,false,"invalid format, must start with country code",none
+103425949,27832762332,27832762332,true,valid number,none
+103426400,27822632311,27822632311,true,valid number,none
+103426365,27823318935,27823318935,true,valid number,none
+103226391,639752384290,none,false,invalid format,none
+103426286,27790417479,27790417479,true,valid number,none
+103285115,732066409,27732066409,true,valid number,added country code 27
+103426328,27798507276,27798507276,true,valid number,none
+103234922,258842440706,none,false,invalid format,none
+103419960,260955781016,none,false,invalid format,none
+103426723,27624364495,27624364495,true,valid number,none
+103257376,919821938114,none,false,invalid format,none
+103425968,27623621265,27623621265,true,valid number,none
+103426861,27825733599,27825733599,true,valid number,none
+103343834,918256942295,none,false,invalid format,none
+103275899,96599210304,96599210304,false,"invalid format, must start with country code",none
+103418454,263773252296,none,false,invalid format,none
+103427318,27813067709,27813067709,true,valid number,none
+103426274,27824171306,27824171306,true,valid number,none
+103427831,27823387463,27823387463,true,valid number,none
+103277760,12566614103,12566614103,false,"invalid format, must start with country code",none
+103426508,27646525654,27646525654,true,valid number,none
+103264068,263773310345,none,false,invalid format,none
+103372264,923218908601,none,false,invalid format,none
+103426360,27823318938,27823318938,true,valid number,none
+103413207,_DELETED_1488820216,none,false,invalid format,none
+103427687,27823087821,27823087821,true,valid number,none
+103426050,27748072832,27748072832,true,valid number,none
+103427329,27829330818,27829330818,true,valid number,none
+103365679,26659425708,26659425708,false,"invalid format, must start with country code",none
+103267973,260978865485,none,false,invalid format,none
+103365238,14503609065,14503609065,false,"invalid format, must start with country code",none
+103427940,27632300636,27632300636,true,valid number,none
+103247613,258875027093,none,false,invalid format,none
+103315956,918344782966,none,false,invalid format,none
+103427882,27845128204,27845128204,true,valid number,none
+103425936,27712678248,27712678248,true,valid number,none
+103426590,27623054206,27623054206,true,valid number,none
+103427523,27607094894,27607094894,true,valid number,none
+103417552,844249888,27844249888,true,valid number,added country code 27
+103425809,27743491895,27743491895,true,valid number,none
+103426643,27786414916,27786414916,true,valid number,none
+103426897,27713398357,27713398357,true,valid number,none
+103426613,27843613613,27843613613,true,valid number,none
+103427247,27632878852,27632878852,true,valid number,none
+103372710,825271906,27825271906,true,valid number,added country code 27
+103231021,_DELETED_1486284887,none,false,invalid format,none
+103426796,27514442055,27514442055,true,valid number,none
+103268353,201001357686,none,false,invalid format,none
+103242923,263733345408,none,false,invalid format,none
+103426027,27824129403,27824129403,true,valid number,none
+103426985,27607555052,27607555052,true,valid number,none
+103360587,26774762472,26774762472,false,"invalid format, must start with country code",none
+103427859,27827788290,27827788290,true,valid number,none
+103388228,263772766948,none,false,invalid format,none
+103427442,27845820123,27845820123,true,valid number,none
+103425801,27786864625,27786864625,true,valid number,none
+103232579,81433864886,81433864886,false,"invalid format, must start with country code",none
+103380423,22967016057,22967016057,false,"invalid format, must start with country code",none
+103426886,27716475025,27716475025,true,valid number,none
+103422231,919818709075,none,false,invalid format,none
+103319092,923082600547,none,false,invalid format,none
+103426619,27604609799,27604609799,true,valid number,none
+103312244,258845445134,none,false,invalid format,none
+103427922,27718812671,27718812671,true,valid number,none
+103266195,639156553262_DELETED_1486721886,none,false,invalid format,none
+103426754,27833348941,27833348941,true,valid number,none
+103253340,723931904,27723931904,true,valid number,added country code 27
+103317875,919810514595,none,false,invalid format,none
+103282832,264811271118,none,false,invalid format,none
+103425843,27618451558,27618451558,true,valid number,none
+103388723,26657955422,26657955422,false,"invalid format, must start with country code",none
+103326853,26876364815,26876364815,false,"invalid format, must start with country code",none
+103425774,27727571149,27727571149,true,valid number,none
+103427050,27788779270,27788779270,true,valid number,none
+103427823,27733500558,27733500558,true,valid number,none
+103426813,27733223118,27733223118,true,valid number,none
+103396057,26771290563,26771290563,false,"invalid format, must start with country code",none
+103427426,27842632165,27842632165,true,valid number,none
+103293964,81928128379,81928128379,false,"invalid format, must start with country code",none
+103426380,919989683209,none,false,invalid format,none
+103426290,27760309815,27760309815,true,valid number,none
+103426989,27785239078,27785239078,true,valid number,none
+103426771,27825231885,27825231885,true,valid number,none
+103288805,88662769913,88662769913,false,"invalid format, must start with country code",none
+103324145,_DELETED_1487663676,none,false,invalid format,none
+103396245,263775679244,none,false,invalid format,none
+103426902,27781977333,27781977333,true,valid number,none
+103403660,2349057588977,none,false,invalid format,none
+103426506,27786196757,27786196757,true,valid number,none
+103302163,26771848888,26771848888,false,"invalid format, must start with country code",none
+103260504,447441910047_DELETED_1486646137,none,false,invalid format,none
+103425849,27718652490,27718652490,true,valid number,none
+103414446,2347031567381,none,false,invalid format,none
+103306953,923125379173,none,false,invalid format,none
+103426872,27843805730,27843805730,true,valid number,none
+103426121,27832793415,27832793415,true,valid number,none
+103271022,84543293371,84543293371,false,"invalid format, must start with country code",none
+103425773,27630772795,27630772795,true,valid number,none
+103425928,27729950048,27729950048,true,valid number,none
+103290062,868221191,27868221191,true,valid number,added country code 27
+103426509,27842093415,27842093415,true,valid number,none
+103246480,233245789008,none,false,invalid format,none
+103426699,27847573738,27847573738,true,valid number,none
+103426061,27838779494,27838779494,true,valid number,none
+103427644,27718607359,27718607359,true,valid number,none
+103425875,27797249224,27797249224,true,valid number,none
+103331441,26658889998,26658889998,false,"invalid format, must start with country code",none
+103427551,27824725368,27824725368,true,valid number,none
+103426107,27834038607,27834038607,true,valid number,none
+103275744,81391685288,81391685288,false,"invalid format, must start with country code",none
+103426896,27713504952,27713504952,true,valid number,none
+103427626,27813438623,27813438623,true,valid number,none
+103427420,27836826107_DELETED_1488996550,27836826107,true,valid number,deleted _DELETED_1488996550
+103427444,27781634994,27781634994,true,valid number,none
+103306228,64274085892,64274085892,false,"invalid format, must start with country code",none
+103365223,85651951899,85651951899,false,"invalid format, must start with country code",none
+103379741,864886811,27864886811,true,valid number,added country code 27
+103332838,260950132417,none,false,invalid format,none
+103426988,27617500296,27617500296,true,valid number,none
+103418464,81584794653,81584794653,false,"invalid format, must start with country code",none
+103386767,_DELETED_1488438797,none,false,invalid format,none
+103273907,445843900,27445843900,true,valid number,added country code 27
+103426669,27814772531,27814772531,true,valid number,none
+103426197,27725482531,27725482531,true,valid number,none
+103426015,27798053209,27798053209,true,valid number,none
+103363080,769299288,27769299288,true,valid number,added country code 27
+103357858,918566920111,none,false,invalid format,none
+103425940,27632604133,27632604133,true,valid number,none
+103427312,27717883200,27717883200,true,valid number,none
+103220561,824469836,27824469836,true,valid number,added country code 27
+103426102,27636730145,27636730145,true,valid number,none
+103426371,27824958549,27824958549,true,valid number,none
+103407868,19413025059,19413025059,false,"invalid format, must start with country code",none
+103277762,81588185632,81588185632,false,"invalid format, must start with country code",none
+103425778,27640920930,27640920930,true,valid number,none
+103418298,_DELETED_1488963292,none,false,invalid format,none
+103426994,27720374211,27720374211,true,valid number,none
+103229788,19512200245,19512200245,false,"invalid format, must start with country code",none
+103274792,260979966242,none,false,invalid format,none
+103426633,27823049100,27823049100,true,valid number,none
+103336994,14028197348,14028197348,false,"invalid format, must start with country code",none
+103427813,27781058295,27781058295,true,valid number,none
+103426122,27794803125,27794803125,true,valid number,none
+103402203,9674231142,none,false,invalid format,none
+103387608,38268576436,38268576436,false,"invalid format, must start with country code",none
+103426378,27834407945,27834407945,true,valid number,none
+103427467,27725059717,27725059717,true,valid number,none
+103409659,919637971935,none,false,invalid format,none
+103426129,27837255270,27837255270,true,valid number,none
+103426439,27848588935,27848588935,true,valid number,none
+103355558,785729743,27785729743,true,valid number,added country code 27
+103369005,258846804155,none,false,invalid format,none
+103427451,27825957559,27825957559,true,valid number,none
+103233026,846361539,27846361539,true,valid number,added country code 27
+103425834,27712499437,27712499437,true,valid number,none
+103303583,258844521526,none,false,invalid format,none
+103426440,27818397878,27818397878,true,valid number,none
+103425799,27711943261,27711943261,true,valid number,none
+103277039,81932265926,81932265926,false,"invalid format, must start with country code",none
+103427780,27836826107,27836826107,true,valid number,none
+103426573,27798154571,27798154571,true,valid number,none
+103267168,81426697157,81426697157,false,"invalid format, must start with country code",none
+103427004,27617571452,27617571452,true,valid number,none
+103385799,82236886793,82236886793,false,"invalid format, must start with country code",none
+103414996,923059899153,none,false,invalid format,none
+103310843,846625868,27846625868,true,valid number,added country code 27
+103427372,27834591175,27834591175,true,valid number,none
+103265881,26776103960,26776103960,false,"invalid format, must start with country code",none
+103425878,27824161837,27824161837,true,valid number,none
+103390372,263774021834,none,false,invalid format,none
+103381251,84294766458,84294766458,false,"invalid format, must start with country code",none
+103425829,27823733562,27823733562,true,valid number,none
+103426668,27729732529,27729732529,true,valid number,none
+103351088,715148499,27715148499,true,valid number,added country code 27
+103342095,344894927,27344894927,true,valid number,added country code 27
+103417563,237651924036,none,false,invalid format,none
+103322596,82219142367,82219142367,false,"invalid format, must start with country code",none
+103267892,233244164489,none,false,invalid format,none
+103426266,27746041495,27746041495,true,valid number,none
+103243129,82192869,none,false,invalid format,none
+103248027,722231113,27722231113,true,valid number,added country code 27
+103321709,201006003797,none,false,invalid format,none
+103427479,27833051439,27833051439,true,valid number,none
+103233860,923012799569,none,false,invalid format,none
+103426720,27846451262,27846451262,true,valid number,none
+103353026,728025716,27728025716,true,valid number,added country code 27
+103392686,84862619917,84862619917,false,"invalid format, must start with country code",none
+103222060,639188222176,none,false,invalid format,none
+103304364,917981795426,none,false,invalid format,none
+103390689,263772495911,none,false,invalid format,none
+103426118,27725407263,27725407263,true,valid number,none
+103228096,263772101232,none,false,invalid format,none
+103403166,8613840645498,none,false,invalid format,none
+103426672,27769159540,27769159540,true,valid number,none
+103427651,27829058842,27829058842,true,valid number,none
+103427735,27613189832,27613189832,true,valid number,none
+103228376,263775095265,none,false,invalid format,none
+103426577,27872883977,27872883977,true,valid number,none
+103390826,9525099951,none,false,invalid format,none
+103427246,27718518688,27718518688,true,valid number,none
+103426463,27616174492,27616174492,true,valid number,none
+103427673,27827689026,27827689026,true,valid number,none
+103251860,263775687331,none,false,invalid format,none
+103405658,254714557735,none,false,invalid format,none
+103259995,8613563695518,none,false,invalid format,none
+103263858,82557589223,82557589223,false,"invalid format, must start with country code",none
+103375280,8801829618281,none,false,invalid format,none
+103324933,48534150007,48534150007,false,"invalid format, must start with country code",none
+103403989,26876510394,26876510394,false,"invalid format, must start with country code",none
+103332775,26876666557,26876666557,false,"invalid format, must start with country code",none
+103427598,2781441830,none,false,invalid format,none
+103426431,27729807984,27729807984,true,valid number,none
+103426604,27788848924,27788848924,true,valid number,none
+103270970,8801812905506,none,false,invalid format,none
+103426321,27718044840,27718044840,true,valid number,none
+103415343,923404049753,none,false,invalid format,none
+103269175,84498243666,84498243666,false,"invalid format, must start with country code",none
+103427008,27823978356,27823978356,true,valid number,none
+103425953,27725188891,27725188891,true,valid number,none
+103267642,447397076270,none,false,invalid format,none
+103286789,639218975701,none,false,invalid format,none
+103224482,82414863259,82414863259,false,"invalid format, must start with country code",none
+103426914,27826848221,27826848221,true,valid number,none
+103418262,14086221377,14086221377,false,"invalid format, must start with country code",none
+103426135,27767195675,27767195675,true,valid number,none
+103274552,351929188759,none,false,invalid format,none
+103425854,27817275408,27817275408,true,valid number,none
+103427724,27630902992,27630902992,true,valid number,none
+103426166,27612846993,27612846993,true,valid number,none
+103427216,27747994386,27747994386,true,valid number,none
+103426659,27717202411,27717202411,true,valid number,none
+103270173,971563464913,none,false,invalid format,none
+103426220,27718965626,27718965626,true,valid number,none
+103426320,27721944070,27721944070,true,valid number,none
+103427428,27828191705,27828191705,true,valid number,none
+103269170,237669630755,none,false,invalid format,none
+103413839,260977448681,none,false,invalid format,none
+103326330,5521981023818,none,false,invalid format,none
+103299417,264812756964,none,false,invalid format,none
+103426885,27730071008,27730071008,true,valid number,none
+103425111,724909004,27724909004,true,valid number,added country code 27
+103257644,82261892952,82261892952,false,"invalid format, must start with country code",none
+103307357,_DELETED_1487751228,none,false,invalid format,none
+103425992,27828778368,27828778368,true,valid number,none
+103426663,27114630417,27114630417,true,valid number,none
+103425641,13017613478,13017613478,false,"invalid format, must start with country code",none
+103427472,27834130080,27834130080,true,valid number,none
+103427266,27718249412,27718249412,true,valid number,none
+103426701,27736760969,27736760969,true,valid number,none
+103426124,27798854623,27798854623,true,valid number,none
+103426995,27815815082,27815815082,true,valid number,none
+103319748,265888229645,none,false,invalid format,none
+103384447,260965688348,none,false,invalid format,none
+103393489,740318347,27740318347,true,valid number,added country code 27
+103425855,27748012233,27748012233,true,valid number,none
+103335390,82214288834,82214288834,false,"invalid format, must start with country code",none
+103426714,27842011779,27842011779,true,valid number,none
+103427579,27765402807,27765402807,true,valid number,none
+103426442,27820469494,27820469494,true,valid number,none
+103427580,27843378720,27843378720,true,valid number,none
+103279054,923494797279,none,false,invalid format,none
+103373606,26771479894,26771479894,false,"invalid format, must start with country code",none
+103274083,2417029561,none,false,invalid format,none
+103427693,27711881101,27711881101,true,valid number,none
+103258132,742644525,27742644525,true,valid number,added country code 27
+103270916,966597535352,none,false,invalid format,none
+103388464,923212743007,none,false,invalid format,none
+103401709,81347287683,81347287683,false,"invalid format, must start with country code",none
+103232308,639358911197,none,false,invalid format,none
+103427162,27640600114_DELETED_1488991621,27640600114,true,valid number,deleted _DELETED_1488991621
+103426608,27718646058,27718646058,true,valid number,none
+103352995,258824709914,none,false,invalid format,none
+103344253,919118973512,none,false,invalid format,none
+103426008,27730904675,27730904675,true,valid number,none
+103256063,781116755,27781116755,true,valid number,added country code 27
+103426074,27843025495,27843025495,true,valid number,none
+103427340,27718414639,27718414639,true,valid number,none
+103353074,795402553,27795402553,true,valid number,added country code 27
+103329899,19185538473,19185538473,false,"invalid format, must start with country code",none
+103427175,845988306,27845988306,true,valid number,added country code 27
+103427062,27763917975,27763917975,true,valid number,none
+103386440,639393900747,none,false,invalid format,none
+103306614,81734811583,81734811583,false,"invalid format, must start with country code",none
+103426585,27725153324,27725153324,true,valid number,none
+103409257,919633885641,none,false,invalid format,none
+103426986,27844620802,27844620802,true,valid number,none
+103426115,27632064133,27632064133,true,valid number,none
+103426773,27635919264,27635919264,true,valid number,none
+103427505,27627132290,27627132290,true,valid number,none
+103330627,966594077866,none,false,invalid format,none
+103426183,27729779937,27729779937,true,valid number,none
+103427063,27608847017,27608847017,true,valid number,none
+103426820,27727980643,27727980643,true,valid number,none
+103426920,27638298945,27638298945,true,valid number,none
+103426172,27640843936,27640843936,true,valid number,none
+103335828,264815589745,none,false,invalid format,none
+103365682,_DELETED_1488263234,none,false,invalid format,none
+103338092,232831208,27232831208,true,valid number,added country code 27
+103372127,260960344207,none,false,invalid format,none
+103426484,27616364070,27616364070,true,valid number,none
+103359923,18136461496,18136461496,false,"invalid format, must start with country code",none
+103427001,27826585255,27826585255,true,valid number,none
+103426630,27732716997,27732716997,true,valid number,none
+103331129,_DELETED_1487749408,none,false,invalid format,none
+103419543,81547697554,81547697554,false,"invalid format, must start with country code",none
+103426003,27846661454,27846661454,true,valid number,none
+103426611,27641392545,27641392545,true,valid number,none
+103403436,8154255,none,false,invalid format,none
+103243003,_DELETED_1486427086,none,false,invalid format,none
+103427242,27825530424,27825530424,true,valid number,none
+103426586,27832616698,27832616698,true,valid number,none
+103425822,27734215982,27734215982,true,valid number,none
+103426292,27846444497,27846444497,true,valid number,none
+103330090,82286494887,82286494887,false,"invalid format, must start with country code",none
+103280763,733941295,27733941295,true,valid number,added country code 27
+103396423,258848468359,none,false,invalid format,none
+103426237,27647043087,27647043087,true,valid number,none
+103427328,27837158376,27837158376,true,valid number,none
+103426862,27720700772,27720700772,true,valid number,none
+103427463,27827885262,27827885262,true,valid number,none
+103350656,82194292547,82194292547,false,"invalid format, must start with country code",none
+103233906,824146483,27824146483,true,valid number,added country code 27
+103426343,27846561809,27846561809,true,valid number,none
+103427485,27742758369,27742758369,true,valid number,none
+103426787,27797874123,27797874123,true,valid number,none
+103279747,717976087,27717976087,true,valid number,added country code 27
+103402867,919495242119,none,false,invalid format,none
+103309152,6281215660558,none,false,invalid format,none
+103314873,31617360645,31617360645,false,"invalid format, must start with country code",none
+103223072,923349302194,none,false,invalid format,none
+103427679,27827884108,27827884108,true,valid number,none
+103317917,61433666111,61433666111,false,"invalid format, must start with country code",none
+103406847,22964353276,22964353276,false,"invalid format, must start with country code",none
+103236753,82525726764,82525726764,false,"invalid format, must start with country code",none
+103426655,27738957995,27738957995,true,valid number,none
+103349054,23057101182,23057101182,false,"invalid format, must start with country code",none
+103364034,26667257646,26667257646,false,"invalid format, must start with country code",none
+103426177,27818278097,27818278097,true,valid number,none
+103426912,27634161770,27634161770,true,valid number,none
+103426489,27844756159,27844756159,true,valid number,none
+103421017,541158872167,none,false,invalid format,none
+103426383,27790147376,27790147376,true,valid number,none
+103426483,27769262208,27769262208,true,valid number,none
+103422662,263782767619,none,false,invalid format,none
+103425814,27728670878,27728670878,true,valid number,none
+103425820,27789063351,27789063351,true,valid number,none
+103248588,919430037901,none,false,invalid format,none
+103269715,88633795434,88633795434,false,"invalid format, must start with country code",none
+103232673,260966005383,none,false,invalid format,none
+103426769,27710977786,27710977786,true,valid number,none
+103427227,27844488998,27844488998,true,valid number,none
+103426477,27721917623,27721917623,true,valid number,none
+103323549,782682108,27782682108,true,valid number,added country code 27
+103426735,27646813577,27646813577,true,valid number,none
+103349971,26876043598,26876043598,false,"invalid format, must start with country code",none
+103425804,263772719656,none,false,invalid format,none
+103425307,846470689,27846470689,true,valid number,added country code 27
+103368838,258825745169,none,false,invalid format,none
+103348543,82227839841,82227839841,false,"invalid format, must start with country code",none
+103302165,26776787338,26776787338,false,"invalid format, must start with country code",none
+103320649,263773185195,none,false,invalid format,none
+103279222,88686672642,88686672642,false,"invalid format, must start with country code",none
+103427382,27610835185,27610835185,true,valid number,none
+103427306,27613949762,27613949762,true,valid number,none
+103426570,27837588565,27837588565,true,valid number,none
+103426495,27827205226,27827205226,true,valid number,none
+103363017,6281904186711,none,false,invalid format,none
+103427717,27834231292,27834231292,true,valid number,none
+103426398,27788450119,27788450119,true,valid number,none
+103224783,14023404256,14023404256,false,"invalid format, must start with country code",none
+103427010,27768615233,27768615233,true,valid number,none
+103222181,48605390775,48605390775,false,"invalid format, must start with country code",none
+103426114,27718206185,27718206185,true,valid number,none
+103267415,258842350200,none,false,invalid format,none
+103414747,923448969601,none,false,invalid format,none
+103366601,971558600155,none,false,invalid format,none
+103219695,918726257239,none,false,invalid format,none
+103365309,85275883416,85275883416,false,"invalid format, must start with country code",none
+103240485,5491163566442,none,false,invalid format,none
+103427099,27630364521,27630364521,true,valid number,none
+103427641,27640766082,27640766082,true,valid number,none
+103278279,258824860753,none,false,invalid format,none
+103266074,26771635429,26771635429,false,"invalid format, must start with country code",none
+103425767,27734035040,27734035040,true,valid number,none
+103427675,27824674200,27824674200,true,valid number,none
+103288268,971566896336,none,false,invalid format,none
+103246801,615062630,27615062630,true,valid number,added country code 27
+103427635,27607284020,27607284020,true,valid number,none
+103421880,316278827,27316278827,true,valid number,added country code 27
+103261347,841289000001,none,false,invalid format,none
+103426789,27783703250,27783703250,true,valid number,none
+103240280,12124708094,12124708094,false,"invalid format, must start with country code",none
+103413894,84433289437,84433289437,false,"invalid format, must start with country code",none
+103403821,786317816,27786317816,true,valid number,added country code 27
+103348074,6281281102250,none,false,invalid format,none
+103425806,27711538036,27711538036,true,valid number,none
+103270019,81548386524,81548386524,false,"invalid format, must start with country code",none
+103426407,27644153280,27644153280,true,valid number,none
+103345817,81891136579,81891136579,false,"invalid format, must start with country code",none
+103425859,27640774728,27640774728,true,valid number,none
+103311522,256782809586,none,false,invalid format,none
+103292822,81137898134,81137898134,false,"invalid format, must start with country code",none
+103350026,38762062806,38762062806,false,"invalid format, must start with country code",none
+103427661,27739962523,27739962523,true,valid number,none
+103426236,27824151678,27824151678,true,valid number,none
+103374030,23677664237,23677664237,false,"invalid format, must start with country code",none
+103337018,13177590663,13177590663,false,"invalid format, must start with country code",none
+103427613,27737879007,27737879007,true,valid number,none
+103361647,919915879425,none,false,invalid format,none
+103349595,824784612,27824784612,true,valid number,added country code 27
+103425876,27725934183,27725934183,true,valid number,none
+103318041,260955315489,none,false,invalid format,none
+103426574,27767172342,27767172342,true,valid number,none
+103218570,17252222082,17252222082,false,"invalid format, must start with country code",none
+103426939,27717447379,27717447379,true,valid number,none
+103426658,27790248335,27790248335,true,valid number,none
+103426729,27736156288,27736156288,true,valid number,none
+103304004,26772283317,26772283317,false,"invalid format, must start with country code",none
+103426029,27832752588,27832752588,true,valid number,none
+103423535,263777721235,none,false,invalid format,none
+103425772,27832719392,27832719392,true,valid number,none
+103426518,27719072833,27719072833,true,valid number,none
+103427204,27840429295,27840429295,true,valid number,none
+103427785,27839944061,27839944061,true,valid number,none
+103339283,264813081443,none,false,invalid format,none
+103324624,635771133,27635771133,true,valid number,added country code 27
+103330665,923164575963,none,false,invalid format,none
+103426996,27630223511,27630223511,true,valid number,none
+103413245,221705016556,none,false,invalid format,none
+103291011,82221171567,82221171567,false,"invalid format, must start with country code",none
+103424253,96560798154,96560798154,false,"invalid format, must start with country code",none
+103426443,27810556115,27810556115,true,valid number,none
+103426722,27719323807,27719323807,true,valid number,none
+103426978,27832591385,27832591385,true,valid number,none
+103426438,27726923647,27726923647,true,valid number,none
+103381212,258846720515,none,false,invalid format,none
+103426486,27827676777,27827676777,true,valid number,none
+103426011,27842729397,27842729397,true,valid number,none
+103379726,721299257,27721299257,true,valid number,added country code 27
+103427068,27788271667,27788271667,true,valid number,none
+103426238,27844958998,27844958998,true,valid number,none
+103351141,785850248,27785850248,true,valid number,added country code 27
+103427349,27748805971,27748805971,true,valid number,none
+103423853,635245101,27635245101,true,valid number,added country code 27
+103370246,761583884,27761583884,true,valid number,added country code 27
+103385840,17182230563,17182230563,false,"invalid format, must start with country code",none
+103352218,258861529323,none,false,invalid format,none
+103275284,26659968495,26659968495,false,"invalid format, must start with country code",none
+103426127,27790790791,27790790791,true,valid number,none
+103344701,22999382544_DELETED_1488185138,22999382544,false,"invalid format, must start with country code",none
+103426464,27606933256,27606933256,true,valid number,none
+103278114,919830906250,none,false,invalid format,none
+103426567,27634273604,27634273604,true,valid number,none
+103427394,27813965866,27813965866,true,valid number,none
+103355754,81455867645,81455867645,false,"invalid format, must start with country code",none
+103344164,260977502237,none,false,invalid format,none
+103427066,27787889270,27787889270,true,valid number,none
+103426809,27845888810,27845888810,true,valid number,none
+103427462,27812106475,27812106475,true,valid number,none
+103365031,84463524991,84463524991,false,"invalid format, must start with country code",none
+103339782,34983506014,34983506014,false,"invalid format, must start with country code",none
+103427017,27781346013,27781346013,true,valid number,none
+103349599,258824784612,none,false,invalid format,none
+103427711,27839731034,27839731034,true,valid number,none
+103426474,27769240348,27769240348,true,valid number,none
+103266411,_DELETED_1486982093,none,false,invalid format,none
+103426588,27721565550,27721565550,true,valid number,none
+103427494,27731711481,27731711481,true,valid number,none
+103426612,27825633943,27825633943,true,valid number,none
+103423271,84874492816,84874492816,false,"invalid format, must start with country code",none
+103271322,919486677132,none,false,invalid format,none
+103328175,639087245246,none,false,invalid format,none
+103427741,27791241864,27791241864,true,valid number,none
+103354616,85282384679,85282384679,false,"invalid format, must start with country code",none
+103425770,27734207183,27734207183,true,valid number,none
+103426568,27789929802,27789929802,true,valid number,none
+103364026,251946348435,none,false,invalid format,none
+103425193,26659043784,26659043784,false,"invalid format, must start with country code",none
+103356262,844994703,27844994703,true,valid number,added country code 27
+103426929,27824520082,27824520082,true,valid number,none
+103426452,27716831273,27716831273,true,valid number,none
+103356690,264814056443,none,false,invalid format,none
+103388575,639101762433,none,false,invalid format,none
+103414049,263772204188,none,false,invalid format,none
+103260268,258846851943,none,false,invalid format,none
+103224794,917046890827,none,false,invalid format,none
+103354196,81629495518,81629495518,false,"invalid format, must start with country code",none
+103228240,258842926402,none,false,invalid format,none
+103350166,966599923221_DELETED_1487893264,none,false,invalid format,none
+103427678,27823315296,27823315296,true,valid number,none
+103255201,828975334,27828975334,true,valid number,added country code 27
+103427032,27793751284,27793751284,true,valid number,none
+103322617,5144526613,none,false,invalid format,none
+103426528,27728726916,27728726916,true,valid number,none
+103264222,94778778777,94778778777,false,"invalid format, must start with country code",none
+103427295,27714701833,27714701833,true,valid number,none
+103292648,447451233469,none,false,invalid format,none
+103308719,8618620958195,none,false,invalid format,none
+103302729,263782716097,none,false,invalid format,none
+103370409,923023447277,none,false,invalid format,none
+103427667,27836279987,27836279987,true,valid number,none
+103367517,26658564377,26658564377,false,"invalid format, must start with country code",none
+103427174,27733991412,27733991412,true,valid number,none
+103259310,263771203190,none,false,invalid format,none
+103427448,27825569763,27825569763,true,valid number,none
+103427718,27790787179,27790787179,true,valid number,none
+103368597,260979476247,none,false,invalid format,none
+103427603,27833563460,27833563460,true,valid number,none
+103427705,27626339464,27626339464,true,valid number,none
+103426931,27796957889,27796957889,true,valid number,none
+103291296,264813110811,none,false,invalid format,none
+103406060,380954626228,none,false,invalid format,none
+103264158,919652376949,none,false,invalid format,none
+103425898,27732661716,27732661716,true,valid number,none
+103305872,258829970002,none,false,invalid format,none
+103305145,919722663911,none,false,invalid format,none
+103267506,621433086,27621433086,true,valid number,added country code 27
+103406061,828829544,27828829544,true,valid number,added country code 27
+103425839,27731931539,27731931539,true,valid number,none
+103426255,27837427077,27837427077,true,valid number,none
+103426580,27732825708,27732825708,true,valid number,none
+103319203,4369919414052,none,false,invalid format,none
+103426987,27838971359,27838971359,true,valid number,none
+103261399,770598777,27770598777,true,valid number,added country code 27
+103427132,27793447104,27793447104,true,valid number,none
+103427368,27837943222,27837943222,true,valid number,none
+103427827,27615254881,27615254881,true,valid number,none
+103426709,27735405794_DELETED_1488987214,27735405794,true,valid number,deleted _DELETED_1488987214
+103295842,260979164149,none,false,invalid format,none
+103379557,737913785,27737913785,true,valid number,added country code 27
+103426395,27717636738,27717636738,true,valid number,none
+103303355,258844946190,none,false,invalid format,none
+103426081,27765761987,27765761987,true,valid number,none
+103312088,828337796,27828337796,true,valid number,added country code 27
+103378994,84548453753,84548453753,false,"invalid format, must start with country code",none
+103377877,846016616,27846016616,true,valid number,added country code 27
+103224749,5565981232412,none,false,invalid format,none
+103427296,27824802336,27824802336,true,valid number,none
+103426217,27826144033,27826144033,true,valid number,none
+103426001,27714838055,27714838055,true,valid number,none
+103223343,26878054666,26878054666,false,"invalid format, must start with country code",none
+103425852,27791197652,27791197652,true,valid number,none
+103360502,639177056359,none,false,invalid format,none
+103427773,27834214153,27834214153,true,valid number,none
+103426418,27824278179,27824278179,true,valid number,none
+103427495,27769418691,27769418691,true,valid number,none
+103425929,27646890632,27646890632,true,valid number,none
+103426376,27825634004,27825634004,true,valid number,none
+103425838,27834632980,27834632980,true,valid number,none
+103417939,13526143844,13526143844,false,"invalid format, must start with country code",none
+103245107,720717642,27720717642,true,valid number,added country code 27
+103309462,26777187520,26777187520,false,"invalid format, must start with country code",none
+103426453,27732015999,27732015999,true,valid number,none
+103423993,646453849,27646453849,true,valid number,added country code 27
+103230093,639562969760,none,false,invalid format,none
+103391724,26775857770,26775857770,false,"invalid format, must start with country code",none
+103328463,263774393088,none,false,invalid format,none
+103237363,81867543527,81867543527,false,"invalid format, must start with country code",none
+103404816,84496776595,84496776595,false,"invalid format, must start with country code",none
+103296192,904611020,27904611020,true,valid number,added country code 27
+103368494,263719308297,none,false,invalid format,none
+103425882,27621701710,27621701710,true,valid number,none
+103426258,27826877721,27826877721,true,valid number,none
+103426894,27810647581,27810647581,true,valid number,none
+103327142,84668781878,84668781878,false,"invalid format, must start with country code",none
+103286246,787612191,27787612191,true,valid number,added country code 27
+103426284,27721971611,27721971611,true,valid number,none
+103312652,81975612992,81975612992,false,"invalid format, must start with country code",none
+103331107,81611663981,81611663981,false,"invalid format, must start with country code",none
+103426891,27843805370,27843805370,true,valid number,none
+103426505,27788018253,27788018253,true,valid number,none
+103261175,96566549917,96566549917,false,"invalid format, must start with country code",none
+103306351,380977949311,none,false,invalid format,none
+103317908,263773010620,none,false,invalid format,none
+103334695,627770101998,none,false,invalid format,none
+103282599,18885645222,18885645222,false,"invalid format, must start with country code",none
+103385238,81123753332,81123753332,false,"invalid format, must start with country code",none
+103274038,258827844923,none,false,invalid format,none
+103373149,258846007410,none,false,invalid format,none
+103392758,919471831456,none,false,invalid format,none
+103376719,264812287474,none,false,invalid format,none
+103427544,27843069368,27843069368,true,valid number,none
+103399169,96892116504,96892116504,false,"invalid format, must start with country code",none
+103427278,27790243582,27790243582,true,valid number,none
+103426070,27815585061,27815585061,true,valid number,none
+103427599,27606754804,27606754804,true,valid number,none
+103427170,27762103113,27762103113,true,valid number,none
+103426409,27615020390,27615020390,true,valid number,none
+103307430,761905189,27761905189,true,valid number,added country code 27
+103298420,258828411528,none,false,invalid format,none
+103250694,81348985573,81348985573,false,"invalid format, must start with country code",none
+103426445,27828535209,27828535209,true,valid number,none
+103426006,27747139998,27747139998,true,valid number,none
+103396277,846945040,27846945040,true,valid number,added country code 27
+103270357,919822128575,none,false,invalid format,none
+103426606,27789232919,27789232919,true,valid number,none
+103392443,258842409420,none,false,invalid format,none
+103426620,27638724942,27638724942,true,valid number,none
+103427645,27846677347,27846677347,true,valid number,none
+103250600,608310335,27608310335,true,valid number,added country code 27
+103427826,27785250548,27785250548,true,valid number,none
+103385765,264812784554,none,false,invalid format,none
+103423540,260966232014,none,false,invalid format,none
+103427477,27737539680,27737539680,true,valid number,none
+103427534,27826751548,27826751548,true,valid number,none
+103427628,27765935648,27765935648,true,valid number,none
+103409517,8618501968907,none,false,invalid format,none
+103427832,27788211464,27788211464,true,valid number,none
+103420274,4563218752,none,false,invalid format,none
+103426167,27828840034,27828840034,true,valid number,none
+103426556,27735004972,27735004972,true,valid number,none
+103427152,27761378661_DELETED_1488991647,27761378661,true,valid number,deleted _DELETED_1488991647
+103343943,14848316361,14848316361,false,"invalid format, must start with country code",none
+103426949,27844038650,27844038650,true,valid number,none
+103427275,27744481974,27744481974,true,valid number,none
+103350043,263773952166,none,false,invalid format,none
+103258565,81286149743,81286149743,false,"invalid format, must start with country code",none
+103426728,27833427755,27833427755,true,valid number,none
+103378934,14084795943,14084795943,false,"invalid format, must start with country code",none
+103407883,82441934674,82441934674,false,"invalid format, must start with country code",none
+103235761,8618056005796,none,false,invalid format,none
+103425938,263771055535,none,false,invalid format,none
+103426401,27780448357,27780448357,true,valid number,none
+103341039,243851227954,none,false,invalid format,none
+103427574,27603937858,27603937858,true,valid number,none
+103427183,27832575221,27832575221,true,valid number,none
+103426537,27736525857,27736525857,true,valid number,none
+103328122,919423343997,none,false,invalid format,none
+103246076,447463675942,none,false,invalid format,none
+103306479,447441910047,none,false,invalid format,none
+103427315,27764191923,27764191923,true,valid number,none
+103427033,27761282340,27761282340,true,valid number,none
+103426503,27789138996,27789138996,true,valid number,none
+103218615,886958086376,none,false,invalid format,none
+103427893,27617547643,27617547643,true,valid number,none
+103284655,919974006465,none,false,invalid format,none
+103360254,447834851025,none,false,invalid format,none
+103313936,94714242744,94714242744,false,"invalid format, must start with country code",none
+103226630,26876926566,26876926566,false,"invalid format, must start with country code",none
+103425791,27848118457,27848118457,true,valid number,none
+103360818,81234814494,81234814494,false,"invalid format, must start with country code",none
+103426063,27711514040,27711514040,true,valid number,none
+103427236,27723508790,27723508790,true,valid number,none
+103313806,18574883143,18574883143,false,"invalid format, must start with country code",none
+103274642,6281515650096,none,false,invalid format,none
+103414844,918118847902,none,false,invalid format,none
+103248884,919810285512,none,false,invalid format,none
+103357551,619289797,27619289797,true,valid number,added country code 27
+103356251,263785895517,none,false,invalid format,none
+103426665,27783971812,27783971812,true,valid number,none
+103360479,919167011584,none,false,invalid format,none
+103351739,917005072540,none,false,invalid format,none
+103427912,27728808814,27728808814,true,valid number,none
+103299426,353861046160,none,false,invalid format,none
+103426583,27796812908,27796812908,true,valid number,none
+103427029,27798957751,27798957751,true,valid number,none
+103427416,27824541270,27824541270,true,valid number,none
+103427091,27827734972,27827734972,true,valid number,none
+103285019,260971765424,none,false,invalid format,none
+103426685,27633857821,27633857821,true,valid number,none
+103427926,27719816023,27719816023,true,valid number,none
+103229880,639228325226_DELETED_1486375766,none,false,invalid format,none
+103427356,27619077993,27619077993,true,valid number,none
+103427244,27847899858,27847899858,true,valid number,none
+103283067,26876022338,26876022338,false,"invalid format, must start with country code",none
+103427578,2784866557,none,false,invalid format,none
+103409500,8618901528907,none,false,invalid format,none
+103303786,88644679897,88644679897,false,"invalid format, must start with country code",none
+103407607,260961057333,none,false,invalid format,none
+103413852,846892901,27846892901,true,valid number,added country code 27
+103310619,88644375796,88644375796,false,"invalid format, must start with country code",none
+103275617,264818605596,none,false,invalid format,none
+103287345,919531921500,none,false,invalid format,none
+103426143,27725629263,27725629263,true,valid number,none
+103426487,27734830615,27734830615,true,valid number,none
+103426997,27735876391,27735876391,true,valid number,none
+103426277,27624431475,27624431475,true,valid number,none
+103426106,27723629359,27723629359,true,valid number,none
+103427837,27741766060,27741766060,true,valid number,none
+103426297,9647505618183,none,false,invalid format,none
+103427918,27837843343,27837843343,true,valid number,none
+103427188,27640600114,27640600114,true,valid number,none
+103335152,263776405954,none,false,invalid format,none
+103426740,27793497812,27793497812,true,valid number,none
+103426109,27721759049,27721759049,true,valid number,none
+103427930,27847576029,27847576029,true,valid number,none
+103349615,26771479024,26771479024,false,"invalid format, must start with country code",none
+103426319,27797076309,27797076309,true,valid number,none
+103426575,27781053036,27781053036,true,valid number,none
+103337075,917550251606,none,false,invalid format,none
+103427441,27741222725,27741222725,true,valid number,none
+103300931,8618707019706,none,false,invalid format,none
+103246510,995558000887,none,false,invalid format,none
+103427330,27846360164,27846360164,true,valid number,none
+103268964,26878118614,26878118614,false,"invalid format, must start with country code",none
+103426855,27825389922,27825389922,true,valid number,none
+103427059,27837647136,27837647136,true,valid number,none
+103426569,27798554714,27798554714,true,valid number,none
+103427703,27832813592,27832813592,true,valid number,none
+103368717,639062747481,none,false,invalid format,none
+103389072,843806126,27843806126,true,valid number,added country code 27
+103298414,264812629062,none,false,invalid format,none
+103426746,27828069425,27828069425,true,valid number,none
+103407441,244922221080,none,false,invalid format,none
+103355854,917875069458,none,false,invalid format,none
+103426191,27825732871,27825732871,true,valid number,none
+103427771,27735645903,27735645903,true,valid number,none
+103427731,27611816478,27611816478,true,valid number,none
+103296788,380636610164,none,false,invalid format,none
+103427058,27843009661,27843009661,true,valid number,none
+103427533,27828152838,27828152838,true,valid number,none
+103359983,82321986268,82321986268,false,"invalid format, must start with country code",none
+103411190,243853935852,none,false,invalid format,none
+103425885,27833703817,27833703817,true,valid number,none
+103297840,917000617837,none,false,invalid format,none
+103282268,_DELETED_1487060573,none,false,invalid format,none
+103426559,27645894051,27645894051,true,valid number,none
+103355842,84988967427,84988967427,false,"invalid format, must start with country code",none
+103427566,27722586509,27722586509,true,valid number,none
+103362275,_DELETED_1488110488,none,false,invalid format,none
+103334691,747681268,27747681268,true,valid number,added country code 27
+103257707,639164736742,none,false,invalid format,none
+103407664,261331199457,none,false,invalid format,none
+103249867,9616581710,none,false,invalid format,none
+103409248,8613928734816,none,false,invalid format,none
+103379239,_DELETED_1488347682,none,false,invalid format,none
+103427210,27787866982,27787866982,true,valid number,none
+103426957,27834783373,27834783373,true,valid number,none
+103307758,8613263313844,none,false,invalid format,none
+103338564,26659111198,26659111198,false,"invalid format, must start with country code",none
+103263190,26876409060,26876409060,false,"invalid format, must start with country code",none
+103427514,27782272587,27782272587,true,valid number,none
+103392929,84911531531,84911531531,false,"invalid format, must start with country code",none
+103337949,_DELETED_1487930379,none,false,invalid format,none
+103239691,18683509236,18683509236,false,"invalid format, must start with country code",none
+103426935,27606867993,27606867993,true,valid number,none
+103361174,84664751891,84664751891,false,"invalid format, must start with country code",none
+103426618,27796034949,27796034949,true,valid number,none
+103419530,84959127323,84959127323,false,"invalid format, must start with country code",none
+103222846,918895167322,none,false,invalid format,none
+103362783,639071533474,none,false,invalid format,none
+103426465,27842915443,27842915443,true,valid number,none
+103235416,735519436,27735519436,true,valid number,added country code 27
+103426578,27823300634,27823300634,true,valid number,none
+103426947,27822174776,27822174776,true,valid number,none
+103380398,919156507829,none,false,invalid format,none
+103426030,27782729988,27782729988,true,valid number,none
+103427557,27745899970,27745899970,true,valid number,none
+103426715,27640369497,27640369497,true,valid number,none
+103310441,919797555520,none,false,invalid format,none
+103275367,260968301984,none,false,invalid format,none
+103334895,81852879764,81852879764,false,"invalid format, must start with country code",none
+103426411,27836072472,27836072472,true,valid number,none
+103427251,27727641137,27727641137,true,valid number,none
+103425768,27817971166,27817971166,true,valid number,none
+103317491,81546862262,81546862262,false,"invalid format, must start with country code",none
+103401402,971569539534,none,false,invalid format,none
+103426887,27781256558,27781256558,true,valid number,none
+103427346,27635794438,27635794438,true,valid number,none
+103427928,27637344305,27637344305,true,valid number,none
+103334697,6287770101998,none,false,invalid format,none
+103425887,27840544164,27840544164,true,valid number,none
+103219600,263775161653,none,false,invalid format,none
+103427157,27845878676,27845878676,true,valid number,none
+103220810,_DELETED_1486464097,none,false,invalid format,none
+103405128,263775153104,none,false,invalid format,none
+103425236,263776130757,none,false,invalid format,none
+103427207,27781022500,27781022500,true,valid number,none
+103219615,_DELETED_1487665806,none,false,invalid format,none
+103425824,27835570233,27835570233,true,valid number,none
+103397067,48604474115,48604474115,false,"invalid format, must start with country code",none
+103227236,923006253547,none,false,invalid format,none
+103275933,258844029291,none,false,invalid format,none
+103342117,635922024,27635922024,true,valid number,added country code 27
+103427474,27638287870,27638287870,true,valid number,none
+103427223,27735545269,27735545269,true,valid number,none
+103426347,27823428723,27823428723,true,valid number,none
+103261726,82295971765,82295971765,false,"invalid format, must start with country code",none
+103425798,27786208945,27786208945,true,valid number,none
+103426679,27726935560,27726935560,true,valid number,none
+103371930,15023697457,15023697457,false,"invalid format, must start with country code",none
+103426060,27213910052,27213910052,true,valid number,none
+103427298,27609539762,27609539762,true,valid number,none
+103425802,27125663081,27125663081,true,valid number,none
+103427092,27612008548,27612008548,true,valid number,none
+103426306,27711299610,27711299610,true,valid number,none
+103422684,264818420883,none,false,invalid format,none
+103427361,27833061516,27833061516,true,valid number,none
+103380750,615355823,27615355823,true,valid number,added country code 27
+103289975,26663561245,26663561245,false,"invalid format, must start with country code",none
+103325915,_DELETED_1487592295,none,false,invalid format,none
+103348403,81558637925,81558637925,false,"invalid format, must start with country code",none
+103295224,_DELETED_1487248037,none,false,invalid format,none
+103426359,27827999295,27827999295,true,valid number,none
+103237290,81376949189,81376949189,false,"invalid format, must start with country code",none
+103426675,27793220365,27793220365,true,valid number,none
+103427436,27766156006,27766156006,true,valid number,none
+103316593,918803108267,none,false,invalid format,none
+103426317,27720912623,27720912623,true,valid number,none
+103331414,265888863020,none,false,invalid format,none
+103427870,27738237151,27738237151,true,valid number,none
+103427555,27849790100,27849790100,true,valid number,none
+103427470,27713082393,27713082393,true,valid number,none
+103336077,829236866,27829236866,true,valid number,added country code 27
+103286853,81875586919,81875586919,false,"invalid format, must start with country code",none
+103426241,27640787910,27640787910,true,valid number,none
+103377803,264812216787,none,false,invalid format,none
+103427178,27845060055,27845060055,true,valid number,none
+103322646,8613424858267,none,false,invalid format,none
+103352278,260977728396,none,false,invalid format,none
+103427664,27836826107_DELETED_1488997292,27836826107,true,valid number,deleted _DELETED_1488997292
+103280496,96894783831,96894783831,false,"invalid format, must start with country code",none
+103235308,622541818,27622541818,true,valid number,added country code 27
+103341540,919417228940,none,false,invalid format,none
+103427322,27827268349,27827268349,true,valid number,none
+103427583,27218139496,27218139496,true,valid number,none
+103426762,27735405794_DELETED_1488987552,27735405794,true,valid number,deleted _DELETED_1488987552
+103268776,26876272427,26876272427,false,"invalid format, must start with country code",none
+103409197,258848461798,none,false,invalid format,none
+103301349,_DELETED_1487317342,none,false,invalid format,none
+103426794,27826526600,27826526600,true,valid number,none
+103426408,27710267743,27710267743,true,valid number,none
+103225384,923494681594,none,false,invalid format,none
+103419436,263773400658,none,false,invalid format,none
+103427043,27116740007,27116740007,true,valid number,none
+103427789,27747466748,27747466748,true,valid number,none
+103392582,917726992292,none,false,invalid format,none
+103337660,22967369786,22967369786,false,"invalid format, must start with country code",none
+103426461,27834921978,27834921978,true,valid number,none
+103318794,260977751727,none,false,invalid format,none
+103427727,27829292098,27829292098,true,valid number,none
+103426516,27824440867,27824440867,true,valid number,none
+103426969,27645046959,27645046959,true,valid number,none
+103427164,27810422677,27810422677,true,valid number,none
+103427881,27731997268,27731997268,true,valid number,none
+103349371,632822709,27632822709,true,valid number,added country code 27
+103426089,27813814903,27813814903,true,valid number,none
+103250916,82546981266,82546981266,false,"invalid format, must start with country code",none
+103426681,27733339308,27733339308,true,valid number,none
+103292717,447451214554,none,false,invalid format,none
+103253233,26656716723,26656716723,false,"invalid format, must start with country code",none
+103382214,8618028192306,none,false,invalid format,none
+103281602,919029108604,none,false,invalid format,none
+103427536,27785942880,27785942880,true,valid number,none
+103427357,27743736718,27743736718,true,valid number,none
+103426664,27735633037,27735633037,true,valid number,none
+103238934,541156062207,none,false,invalid format,none
