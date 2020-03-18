@@ -5,10 +5,6 @@ const upload = require('../lib/uploadFile');
 const validateNumber = require('../service/validateNumber');
 const validateFile = require('../service/validateFile');
 
-// Format response
-const status200 = require('../lib/response').status200;
-const status500 = require('../lib/response').status500;
-
 // Check single number
 const checkNumber = (req, res, next) => {
   // Validate number
@@ -16,7 +12,7 @@ const checkNumber = (req, res, next) => {
   debug(obj);
 
   // Send response
-  status200(res, obj);
+  res.status(200).json(obj);
 };
 
 // Check CSV file
@@ -24,7 +20,7 @@ const checkFile = (req, res, next) => {
   upload(req, res, err => {
     if (err) {
       debug(err);
-      return status500(res, err.message);
+      res.status(500).json(obj);
     }
 
     // Validate numbers in CSV file
