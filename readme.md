@@ -1,5 +1,9 @@
 # Job tasks
 
+#### Demo
+
+Demo aviable at [Check Mobile Number](https://check-mobile-number.herokuapp.com/).
+
 #### Description of the solution
 
 The repository contains my full-stack solution to the task.  
@@ -8,10 +12,6 @@ The repository contains a server that serves a static page, and an API service t
 #### Frameworks used
 
 Express, Preact and MaterialUI framework.
-
-## Demo:
-
-Demo aviable at [Check Mobile Number](https://check-mobile-number.herokuapp.com/).
 
 ## API service
 
