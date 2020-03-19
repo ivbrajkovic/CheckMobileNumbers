@@ -55,7 +55,8 @@ const validateFile = (file, res) => {
   const newFile = `${pf.name}-validated${pf.ext}`;
 
   // Upload directory
-  const uploadDir = process.env.UPLOAD_DIR;
+  // const uploadDir = process.env.UPLOAD_DIR;
+  const uploadDir = 'uploads';
 
   // Create sreams
   const rs = fs.createReadStream(`${uploadDir}/${file}`);
