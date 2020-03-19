@@ -21,9 +21,10 @@ The format of the correct number is "27 83 XXXXXXX", respectively:
 If the number is correct it returns a success message.  
 If the number is incorrect, it tries to correct the number by adding the county code and the operator code.
 
-### POST route - checks multiple numbers in a CSV file
+### POST route
 
-A .csv file is uploaded to the server to check the numbers, and the service returns the corrected numbers.  
+Checks multiple numbers in a CSV file.  
+The file is uploaded to the server to check the numbers, and the service returns the corrected numbers.  
 The server saves the original file and the corrected file in the "/ uploads" directory.
 
 ### Frontend
