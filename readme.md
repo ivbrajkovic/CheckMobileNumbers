@@ -1,17 +1,17 @@
 # Job tasks
 
-Description of the solution
+##### Description of the solution
 
-The repository contains my full-stack solution to the task.
-Specifically, for the backend I used Express while for the frontend I used Preact and MaterialUI framework.
-
+The repository contains my full-stack solution to the task.  
 The repository contains a server that serves a static page, and an API service that has two routes.
+
+##### Frameworks used
+
+Express, Preact and MaterialUI framework.
 
 ### API service
 
-## -
-
----
+--
 
 ##### GET route
 
@@ -33,7 +33,7 @@ The server saves the original file and the corrected file in the "/ uploads" dir
 
 ### Frontend
 
----
+--
 
 A Preact website containing two text boxes.
 
