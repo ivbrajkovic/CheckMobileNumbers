@@ -21,9 +21,11 @@ The repository contains a server that serves a static page, and an API service t
 
 ## API Services
 
-### GET route (/api/validate/:number)
+<!-- ### GET route (/api/validate/:number) -->
 
-Checks one phone number  
+### Validate Number (/api/validate/:number)
+
+It is a GET route that validate one phone number.  
 The format of the correct number is "27 83 XXXXXXX", respectively:
 
 - 27 - is a country code
