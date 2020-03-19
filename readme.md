@@ -11,7 +11,7 @@ Express, Preact and MaterialUI framework.
 
 ### API service
 
-## -
+##
 
 ##### GET route
 
