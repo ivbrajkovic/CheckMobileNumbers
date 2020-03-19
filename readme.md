@@ -8,6 +8,10 @@ Demo aviable at [Check Mobile Number](https://check-mobile-number.herokuapp.com/
 
 [ExpressJS](https://expressjs.com/), [PreactJS](https://preactjs.com/) and [MaterialUI](https://material-ui.com/) framework.
 
+- ExpresJS - serve static files and validation service API
+- PreactJS - fast 3kB alternative to React
+- MaterialUI - css framework
+
 #### Description of the solution
 
 The repository contains my full-stack solution to the task.  
