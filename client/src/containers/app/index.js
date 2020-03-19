@@ -18,7 +18,7 @@ import useStyles from './style';
 // Components
 import NumberValidation from '../../components/numberValidation';
 import FileValidation from '../../components/fileValidation';
-import Table from '../../components/table';
+import NumberTable from '../../components/table';
 
 const elevation = 4;
 const App = () => {
@@ -49,7 +49,7 @@ const App = () => {
           </Grid>
           {data && (
             <Grid item xs={12}>
-              <Table elevation={elevation} data={data} />
+              <NumberTable elevation={elevation} data={data} />
             </Grid>
           )}
         </Grid>
