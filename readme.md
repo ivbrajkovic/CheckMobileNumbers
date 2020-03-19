@@ -38,7 +38,7 @@ The format of the correct number is "27 83 XXXXXXX", respectively:
 If the number is correct it returns a success message.  
 If the number is incorrect, it tries to correct the number by adding the county code and the operator code.
 
-### Validate File (/api/validate/file)
+### 2. Validate File (/api/validate/file)
 
 It is a POST route that validate a CSV file.
 
@@ -51,13 +51,13 @@ The server saves the original file and the corrected file in the "/ uploads" dir
 
 A Preact website containing two text boxes.
 
-### First text box
+### 1. First text box
 
 Checks the manually typed number by clicking on the icon or pressing the "enter" key.  
 After which it invokes the API for checking one number and prints a status notification.  
 If the number is corrected, the actions taken on the number itself are displayed, or if the number is incorrect, an error message is displayed.
 
-### Second text box
+### 2. Second text box
 
 Text box other than the send icon also contains a file selection icon.  
 Once a file is selected, clicking on the file upload icons teh file is sent to the server by calling the file verification API.  
