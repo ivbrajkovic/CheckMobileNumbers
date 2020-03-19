@@ -5,9 +5,10 @@ import { h, Fragment } from 'preact';
 import { useState } from 'preact/hooks';
 
 // Material-UI
-import IconButton from '@material-ui/core/IconButton';
 import Paper from '@material-ui/core/Paper';
 import InputBase from '@material-ui/core/InputBase';
+import IconButton from '@material-ui/core/IconButton';
+import FormHelperText from '@material-ui/core/FormHelperText';
 import Divider from '@material-ui/core/Divider';
 import SendIcon from '@material-ui/icons/Send';
 
@@ -20,19 +21,15 @@ import getIcon from './getIcon';
 // Validate number
 import fetchValidation from './fetchValidation';
 
-/**
- * Status code
- *  0 - do not display
- *  1 - success
- *  2 - failed
- */
+// Initial state
 const initState = {
-  code: 0,
+  show: false,
   number: '',
-  message: ''
+  success: false,
+  corrected: false
 };
 
-const NumberValidation = () => {
+const NumberValidation = ({ elevation }) => {
   const classes = useStyles();
   const [state, setState] = useState(initState);
 
@@ -57,28 +54,46 @@ const NumberValidation = () => {
   };
 
   return (
-    <Paper className={classes.root}>
-      <InputBase
-        className={classes.input}
-        placeholder="Phone number"
-        inputProps={{ 'aria-label': 'phone number' }}
-        value={state.number}
-        onChange={changeHandler}
-        onKeyPress={keyPresHandler}
-      />
+    <div className={classes.root}>
+      <Paper elevation={elevation} className={classes.paper}>
+        <InputBase
+          className={classes.input}
+          placeholder="Phone number"
+          inputProps={{ 'aria-label': 'phone number' }}
+          value={state.number}
+          onChange={changeHandler}
+          onKeyPress={keyPresHandler}
+        />
 
-      {getIcon({ valid: state.code, classes })}
+        {state.show && getIcon({ success: state.success, classes })}
 
-      <Divider className={classes.divider} orientation="vertical" />
+        <Divider className={classes.divider} orientation="vertical" />
 
-      <IconButton
-        color="primary"
-        onClick={clickHandler}
-        aria-label="validate number"
-      >
-        <SendIcon />
-      </IconButton>
-    </Paper>
+        <IconButton
+          color="primary"
+          onClick={clickHandler}
+          aria-label="validate number"
+        >
+          <SendIcon />
+        </IconButton>
+      </Paper>
+
+      {!state.success && state.message && (
+        <FormHelperText filled error className={classes.helper}>
+          {state.message}
+        </FormHelperText>
+      )}
+      {state.added && (
+        <FormHelperText filled error className={classes.helper}>
+          added: {state.added}
+        </FormHelperText>
+      )}
+      {state.deleted && (
+        <FormHelperText filled error className={classes.helper}>
+          deleted: {state.deleted}
+        </FormHelperText>
+      )}
+    </div>
   );
 };
 

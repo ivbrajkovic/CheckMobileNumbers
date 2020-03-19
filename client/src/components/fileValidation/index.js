@@ -5,73 +5,102 @@ import { h, Fragment } from 'preact';
 import { useState } from 'preact/hooks';
 
 // Material-UI
-import TextField from '@material-ui/core/TextField';
-import FolderOpenIcon from '@material-ui/icons/FolderOpen';
+import Paper from '@material-ui/core/Paper';
+import InputBase from '@material-ui/core/InputBase';
+import Divider from '@material-ui/core/Divider';
 import IconButton from '@material-ui/core/IconButton';
-import PublishOutlinedIcon from '@material-ui/icons/PublishOutlined';
+import SearchIcon from '@material-ui/icons/Search';
+import SendIcon from '@material-ui/icons/Send';
 
 // Custom styles
 import useStyles from './style';
 
-// Initial state
-const initState = {
-  focus: false,
-  text: ''
+const url = 'http://127.0.0.1:5000/api/validate/file';
+
+const iniitState = {
+  text: '',
+  file: '',
+  data: null
 };
 
-const FileValidation = () => {
-  const classes = useStyles();
-  const [state, setState] = useState(initState);
+const uploadFile = (file, setDataTable) => {
+  const data = new FormData();
+  data.append('file', file);
 
-  const setText = value => {
-    setState(state => ({ ...state, text: value }));
+  fetch(url, {
+    method: 'POST',
+    body: data
+  })
+    .then(response => response.json())
+    .then(data => {
+      console.log('Success:', data);
+      setDataTable(data);
+    })
+    .catch(error => {
+      console.error('Error:', error);
+    });
+};
+
+const FileValidation = ({ elevation, setDataTable }) => {
+  const classes = useStyles();
+  const [state, setState] = useState(iniitState);
+
+  // const textChangeHandler = e => {
+  //   const text = e.target.value;
+  //   setState(text: e.target.value);
+  // };
+
+  const fileChangeHandler = e => {
+    const text = e.target.files[0].name;
+    const file = e.target.files[0];
+    setState({ text, file });
   };
 
-  const togleFocus = value => {
-    setState(state => ({ ...state, focus: value }));
+  const uploadHandler = () => {
+    state.file && uploadFile(state.file, setDataTable);
   };
 
   return (
-    <div className={classes.root}>
-      <TextField
-        label="Chose file"
+    <Paper elevation={elevation} className={classes.root}>
+      <InputBase
+        className={classes.input}
+        placeholder="Chose file"
+        inputProps={{ 'aria-label': 'chose file' }}
         value={state.text}
-        className={classes.textField}
-        onFocus={() => togleFocus(true)}
-        onBlur={() => togleFocus(false)}
-        onChange={e => setText(e.target.value)}
-        InputLabelProps={{ shrink: state.text || state.focus }}
+        // onChange={textChangeHandler}
+        // onKeyPress={keyPresHandler}
       />
 
       <input
+        id="search-button"
         color="primary"
         accept=".csv"
         type="file"
-        onChange={e => setText(e.target.files[0].name)}
-        id="upload-button"
+        onChange={fileChangeHandler}
         style={{ display: 'none' }}
       />
-
-      <label htmlFor="upload-button">
+      <label htmlFor="search-button">
         <IconButton
           size="large"
           color="primary"
           component="span"
-          aria-label="upload csv file"
+          aria-label="upload button"
         >
-          <FolderOpenIcon fontSize="large" />
+          <SearchIcon />
         </IconButton>
       </label>
 
+      <Divider className={classes.divider} orientation="vertical" />
+
       <IconButton
-        size="large"
         color="primary"
-        component="span"
-        aria-label="upload csv file"
+        //onClick={clickHandler}
+        aria-label="upload file"
+        onClick={uploadHandler}
       >
-        <PublishOutlinedIcon fontSize="large" />
+        <SendIcon />
       </IconButton>
-    </div>
+    </Paper>
   );
 };
 

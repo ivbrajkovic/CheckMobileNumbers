@@ -5,6 +5,9 @@ const path = require('path');
 const csv = require('fast-csv');
 const validateNumber = require('./validateNumber');
 
+// Response object
+const response = [];
+
 /**
  * Transform readed line from CSV file
  * @param {*} row Row readed from csv file
@@ -12,15 +15,30 @@ const validateNumber = require('./validateNumber');
  */
 const transform = (row, cb) => {
   setImmediate(() => {
-    const res = validateNumber(row.sms_phone);
-    cb(null, {
-      id: row.id,
-      sms_phone: row.sms_phone,
-      sms_phone_validated: res.sms_phone_validated,
-      success: res.success,
-      message: res.message,
-      action: res.actions.join(' and ')
-    });
+    try {
+      const res = validateNumber(row.sms_phone);
+      const cbObj = {
+        id: row.id,
+        sms_phone: row.sms_phone,
+        ...res
+      };
+
+      // Push to return object
+      response.push(cbObj);
+      cb(null, cbObj);
+    } catch (error) {
+      const cbObj = {
+        id: row.id,
+        sms_phone: row.sms_phone,
+        //...res,
+        number: 'error',
+        message: error.message
+      };
+
+      // Push to return object
+      response.push(cbObj);
+      cb(null, cbObj);
+    }
   });
 };
 
@@ -28,7 +46,10 @@ const transform = (row, cb) => {
  * Raed CVS file, validate sms phone numbers and save result
  * @param {*} file Path to CSV file
  */
-const validateFile = file => {
+const validateFile = (file, res) => {
+  // Clear response array
+  response.length = 0;
+
   // Parse filename
   const pf = path.parse(file);
   const newFile = `${pf.name}-validated${pf.ext}`;
@@ -48,6 +69,13 @@ const validateFile = file => {
     // On error handler
     .on('error', error => console.error(error))
     // .pipe(process.stdout);
+    // .on('data', data => console.log(data))
+    .on('end', () => {
+      console.log('stream ended');
+      // console.log(retObj);
+      // Send response
+      res.status(200).json(response);
+    })
     .pipe(ws);
 };
 

@@ -22,7 +22,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // API test routes
-app.use('/api/number', require('./api/routes/number'));
+app.use('/api/validate', require('./api/routes/validate'));
 
 // Index route
 app.get('/', (req, res, next) => {

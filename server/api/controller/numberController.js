@@ -20,14 +20,19 @@ const checkFile = (req, res, next) => {
   upload(req, res, err => {
     if (err) {
       debug(err);
-      res.status(500).json(obj);
+      res.status(500).json(err);
     }
 
-    // Validate numbers in CSV file
-    validateFile(req.file.filename);
+    try {
+      // Validate numbers in CSV file
+      validateFile(req.file.filename, res);
+    } catch (err) {
+      debug(err);
+      res.status(500).json(err.message);
+    }
 
     // Sen response
-    status200(res, req.file);
+    // res.status(500).json(req.file);
   });
 };
 

@@ -1,7 +1,7 @@
 // Fetch validation service
 
 // API url
-const url = 'http://127.0.0.1:5000/api/number/';
+const url = 'http://127.0.0.1:5000/api/validate/';
 
 /**
  * Validate phone number on service API
@@ -26,19 +26,18 @@ export default async (number, setState) => {
     // Get response
     const data = await res.json();
 
-    // Format component state
-    const state = {};
-    state.code = data.success ? 1 : 2;
-    state.number = data.success ? data.sms_phone_validated : number;
-    state.message = data.success
-      ? data.corrected
-        ? data.actions.join(' and ')
-        : ''
-      : data.message;
-
     // Set new state
-    setState(state);
+    setState({
+      show: true,
+      ...data,
+      number: data.success ? data.number : number
+    });
   } catch (error) {
     console.log('TCL: error', error);
+    setState({
+      show: true,
+      number: number,
+      message: error.message
+    });
   }
 };
