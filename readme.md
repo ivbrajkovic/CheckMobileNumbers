@@ -25,7 +25,7 @@ The repository contains a server that serves a static page, and an API service t
 
 <!-- ### GET route (/api/validate/:number) -->
 
-### Validate Number (/api/validate/:number)
+### 1. Validate Number (/api/validate/:number)
 
 It is a GET route that validate one phone number.
 
