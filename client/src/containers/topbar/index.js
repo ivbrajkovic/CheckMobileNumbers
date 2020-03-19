@@ -16,7 +16,7 @@ const Topbar = () => {
     <AppBar position="static">
       <Toolbar>
         <Typography variant="h6" className={classes.title}>
-          SMS Number validator
+          SMS Number Validator
         </Typography>
       </Toolbar>
     </AppBar>

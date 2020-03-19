@@ -11,15 +11,17 @@ import IconButton from '@material-ui/core/IconButton';
 import FormHelperText from '@material-ui/core/FormHelperText';
 import Divider from '@material-ui/core/Divider';
 import SendIcon from '@material-ui/icons/Send';
+import CheckIcon from '@material-ui/icons/Check';
+import ErrorTwoToneIcon from '@material-ui/icons/ErrorTwoTone';
 
 // Custom styles
 import useStyles from './style';
 
-// Get input adornment icon
-import getIcon from './getIcon';
-
 // Validate number
-import fetchValidation from './fetchValidation';
+import fetchData from './fetchData';
+
+// API url
+const url = 'http://127.0.0.1:5000/api/validate/';
 
 // Initial state
 const initState = {
@@ -33,16 +35,32 @@ const NumberValidation = ({ elevation }) => {
   const classes = useStyles();
   const [state, setState] = useState(initState);
 
+  const setStateFetchData = async () => {
+    const [error, data] = await fetchData(url, state.number);
+    if (error)
+      setState({
+        show: true,
+        number: state.number,
+        message: error.message
+      });
+    else
+      setState({
+        show: true,
+        ...data,
+        number: data.success ? data.number : state.number
+      });
+  };
+
   /**
    * Validate number on click
    */
-  const clickHandler = () => fetchValidation(state.number, setState);
+  const clickHandler = () => setStateFetchData();
 
   /**
    * Validate number on key enter
    */
   const keyPresHandler = e => {
-    if (event.key === 'Enter') fetchValidation(state.number, setState);
+    if (e.key === 'Enter') setStateFetchData();
   };
 
   /**
@@ -65,7 +83,11 @@ const NumberValidation = ({ elevation }) => {
           onKeyPress={keyPresHandler}
         />
 
-        {state.show && getIcon({ success: state.success, classes })}
+        {state.show &&
+          ((state.success && <CheckIcon className={classes.okIcon} />) || (
+              <ErrorTwoToneIcon className={classes.errorIcon} />
+            ) ||
+            null)}
 
         <Divider className={classes.divider} orientation="vertical" />
 

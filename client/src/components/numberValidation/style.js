@@ -6,11 +6,6 @@ import red from '@material-ui/core/colors/red';
 
 export default makeStyles(theme => ({
   root: {
-    // maxWidth: 360,
-    // marginBottom: theme.spacing(1),
-    // [theme.breakpoints.up('sm')]: {
-    //   marginBottom: theme.spacing(2)
-    // }
     '& .MuiFormHelperText-root:first-of-type': {
       marginTop: theme.spacing(1)
     }

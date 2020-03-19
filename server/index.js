@@ -21,14 +21,13 @@ app.use(require('cors')());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+// Serve static
+app.use(express.static('client/dist'));
+
 // API test routes
 app.use('/api/validate', require('./api/routes/validate'));
 
-// Index route
-app.get('/', (req, res, next) => {
-  res.send('Powered by NodeJS.');
-});
-
+// !For debug puropse only
 app.get('/upload', (req, res, next) => {
   res.writeHead(200, { 'Content-Type': 'text/html' });
   res.write(
@@ -51,4 +50,4 @@ app.use((err, req, res, next) => {
 });
 
 // Start listening
-app.listen(PORT, () => debug(`Server is listening at ${PORT}`));
+app.listen(PORT, () => console.log(`Server is listening at ${PORT}`));

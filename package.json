@@ -8,14 +8,13 @@
   "private": true,
   "description": "mobile number checker",
   "scripts": {
-    "start": "webpack-dev-server --env.NODE_ENV=development --config webpack.config.js --open",
-    "start:local": "webpack-dev-server --port 3000 --host 0.0.0.0 --env.NODE_ENV=development --config webpack.config.js --open",
-    "dev:client": "webpack --config webpack.config.js",
-    "build:client": "webpack --env.NODE_ENV=production --config webpack.config.js",
-    "start:server": "node server/index.js",
-    "dev": "npm run start:client & npm run start:server",
-    "analyze": "webpack --env.NODE_ENV=production --env.analyze --config webpack.config.js",
-    "mon": "nodemon server/index.js --watch server"
+    "client": "webpack-dev-server --env.NODE_ENV=development --config webpack.config.js --open",
+    "client:local": "webpack-dev-server --port 3000 --host 0.0.0.0 --env.NODE_ENV=development --config webpack.config.js --open",
+    "client:build": "webpack --env.NODE_ENV=production --config webpack.config.js",
+    "server:mon": "nodemon server/index.js --watch server",
+    "server:start": "node server/index.js",
+    "start": "npm run client:build & npm run server:start",
+    "analyze": "webpack --env.NODE_ENV=production --env.analyze --config webpack.config.js"
   },
   "keywords": [],
   "author": "",

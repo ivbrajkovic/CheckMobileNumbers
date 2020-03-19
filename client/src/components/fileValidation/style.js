@@ -4,14 +4,14 @@ import { makeStyles } from '@material-ui/core/styles';
 
 export default makeStyles(theme => ({
   root: {
-    // marginBottom: theme.spacing(1),
-    // [theme.breakpoints.up('sm')]: {
-    //   marginBottom: theme.spacing(2)
-    // },
+    '& .MuiFormHelperText-root': {
+      marginTop: theme.spacing(1)
+    }
+  },
+  paper: {
     padding: '2px 4px',
     display: 'flex',
     alignItems: 'center'
-    // maxWidth: 360
   },
   input: {
     marginLeft: theme.spacing(1),
