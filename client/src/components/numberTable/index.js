@@ -3,7 +3,7 @@
 import { h } from 'preact';
 
 // Material-UI
-import Table from '@material-ui/core/table';
+import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
 import TableContainer from '@material-ui/core/TableContainer';
