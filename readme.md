@@ -9,17 +9,7 @@ The repository contains a server that serves a static page, and an API service t
 
 Express, Preact and MaterialUI framework.
 
-### API service
-
----
-
----
-
----
-
----
-
----
+## API service
 
 ##### GET route
 
@@ -39,9 +29,7 @@ Checks multiple numbers in a CSV file.
 The file is uploaded to the server to check the numbers, and the service returns the corrected numbers.  
 The server saves the original file and the corrected file in the "/ uploads" directory.
 
-### Frontend
-
---
+## Frontend
 
 A Preact website containing two text boxes.
 
