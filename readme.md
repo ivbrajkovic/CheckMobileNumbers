@@ -6,7 +6,7 @@ Demo aviable at [Check Mobile Number](https://check-mobile-number.herokuapp.com/
 
 #### Frameworks used
 
-Express, Preact and MaterialUI framework.
+[ExpressJS](https://expressjs.com/), [PreactJS](https://preactjs.com/) and [MaterialUI](https://material-ui.com/) framework.
 
 #### Description of the solution
 
