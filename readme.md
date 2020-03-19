@@ -4,7 +4,7 @@
 
 Demo aviable at [Check Mobile Number](https://check-mobile-number.herokuapp.com/).
 
-<dd>*This is a free [Heroku](https://dashboard.heroku.com/apps) account, so after 30 minutes of inactivity, go to standby, so it will take a few minutes when you first open the page.<dd>
+<dd style="font-size: 8px">*This is a free [Heroku](https://dashboard.heroku.com/apps) account, so after 30 minutes of inactivity, go to standby, so it will take a few minutes when you first open the page.<dd>
 
 #### Frameworks used
 
