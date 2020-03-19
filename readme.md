@@ -25,7 +25,8 @@ The repository contains a server that serves a static page, and an API service t
 
 ### Validate Number (/api/validate/:number)
 
-It is a GET route that validate one phone number.  
+It is a GET route that validate one phone number.
+
 The format of the correct number is "27 83 XXXXXXX", respectively:
 
 - 27 - is a country code
@@ -35,9 +36,10 @@ The format of the correct number is "27 83 XXXXXXX", respectively:
 If the number is correct it returns a success message.  
 If the number is incorrect, it tries to correct the number by adding the county code and the operator code.
 
-### POST route
+### Validate File (/api/validate/file)
 
-Checks multiple numbers in a CSV file.  
+It is a POST route that validate a CSV file.
+
 The file is uploaded to the server to check the numbers, and the service returns the corrected numbers.  
 The server saves the original file and the corrected file in the "/ uploads" directory.
 
