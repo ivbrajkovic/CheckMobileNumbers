@@ -18,7 +18,7 @@ import useStyles from './style';
 // Components
 import NumberValidation from '../../components/numberValidation';
 import FileValidation from '../../components/fileValidation';
-import NumberTable from '../../components/table';
+import NumberTable from '../../components/numberTable';
 
 const elevation = 4;
 const App = () => {
