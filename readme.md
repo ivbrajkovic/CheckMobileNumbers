@@ -19,6 +19,8 @@ Demo is hosted on free [Heroku](https://www.heroku.com/home) account, so after 3
 The repository contains my full-stack solution to the task.  
 The repository contains a server that serves a static page, and an API service that has two routes.
 
+---
+
 ## API Services
 
 <!-- ### GET route (/api/validate/:number) -->
@@ -42,6 +44,8 @@ It is a POST route that validate a CSV file.
 
 The file is uploaded to the server to check the numbers, and the service returns the corrected numbers.  
 The server saves the original file and the corrected file in the "/ uploads" directory.
+
+---
 
 ## UI Frontend
 
