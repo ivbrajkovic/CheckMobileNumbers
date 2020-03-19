@@ -9,6 +9,8 @@ The repository contains a server that serves a static page, and an API service t
 
 ### API service
 
+---
+
 ##### GET route
 
 Checks ONE phone number  
@@ -29,7 +31,9 @@ The server saves the original file and the corrected file in the "/ uploads" dir
 
 ### Frontend
 
-Website containing two text boxes.
+---
+
+A Preact website containing two text boxes.
 
 ##### First text box
 
