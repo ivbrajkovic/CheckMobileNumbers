@@ -18,6 +18,7 @@ const fetchData = async (url, file) => {
     // Check if JSON is returned
     const contentType = res.headers.get('content-type');
     if (!contentType || !contentType.includes('application/json')) {
+      console.log('TCL: fetchData -> res', res);
       throw new TypeError("Oops, we haven't got JSON!");
     }
 

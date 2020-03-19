@@ -21,7 +21,8 @@ import useStyles from './style';
 import fetchData from './fetchData';
 
 // API url
-const url = 'http://127.0.0.1:5000/api/validate/';
+// const url = 'http://127.0.0.1:5000/api/validate/';
+const url = '/api/validate/';
 
 // Initial state
 const initState = {

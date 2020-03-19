@@ -20,7 +20,8 @@ import useStyles from './style';
 import fetchData from './fetchData';
 
 // API url
-const url = 'http://127.0.0.1:5000/api/validate/file';
+// const url = 'http://127.0.0.1:5000/api/validate/file';
+const url = '/api/validate/file';
 
 // Initial state
 const iniitState = {
