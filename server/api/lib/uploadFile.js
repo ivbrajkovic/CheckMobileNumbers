@@ -9,7 +9,7 @@ const storage = multer.diskStorage({
   // destination: function(req, file, cb) {
   //   cb(null, 'upload');
   // },
-  destination: process.env.UPLOAD_DIR,
+  destination: 'uploads',
   filename: (req, file, cb) => {
     cb(null, Date.now() + '-' + file.originalname);
   }
